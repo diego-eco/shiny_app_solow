@@ -1,0 +1,12 @@
+name: test_solow
+title: test_solow
+username:
+account: diego-lopezt
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2622649
+bundleId: 3452701
+url: https://diego-lopezt.shinyapps.io/test_solow/
+when: 1596070617.24532
+asMultiple: FALSE
+asStatic: FALSE
